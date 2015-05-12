@@ -1,6 +1,6 @@
 ﻿# 微软虚拟学院在线课程 MVA - Azure Automation Demo
 
-A README.md file is intended to quickly orient readers to what your project can do. [Learn more](http://go.microsoft.com/fwlink/p/?LinkId=524306) about Markdown.
+[课程地址](http://www.microsoftvirtualacademy.com/liveevents/azure-empowers-cloud-automation-management?CR_CC=200622498&nsukey=uSoGaV4cZhzF7gM8kTV6mD%2FnSP9pOOHQIo2rGt1GiXCFKmkD4lt6G2C5DmBs7husVRpurELtJYl0gyJkVSOvUg%3D%3D#rd)
 
 ## 内容
  1. 演示PPT
@@ -19,3 +19,6 @@ A README.md file is intended to quickly orient readers to what your project can 
 本公众号将和您分享开发运维一体化（DevOps）的趋势，技术，工具和最佳实践。DevOps将产品研发，部署，监控／分析，运维和运营串接起来，整合为一体化产品生命周期过程。DevOps的价值在于通过体系化的方法，工具，实践来改善产品的质量，帮助您更好的把握用户需求并最终创造商业价值。在这里，我们不仅仅关注工具，更加关注方法和最佳实践。
 
 ![](/MvaDemo01/MvaDemo01/images/qrcode_devopshub.jpg)
+
+
+A README.md file is intended to quickly orient readers to what your project can do. [Learn more](http://go.microsoft.com/fwlink/p/?LinkId=524306) about Markdown.
