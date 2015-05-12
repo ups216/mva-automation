@@ -173,7 +173,7 @@ if ($files -ne $null -and $files.Count -gt 2)
         {
             if ($PSCmdlet.ShouldProcess($StorageContainer, "Create Container"))
             {
-                $StorageContainer = "log" +(Get-Date -Format yyyymmddHHMMss)
+                $StorageContainer = "log" +(get-date).ToString('yyyyMMddHHmm')
                 $newContainer = New-AzureStorageContainer -Name $StorageContainer -Permission Container
                 "Storage container '" + $newContainer.Name + "' created."
 
