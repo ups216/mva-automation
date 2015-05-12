@@ -18,4 +18,4 @@ A README.md file is intended to quickly orient readers to what your project can 
 ## 微信订阅号 devopshub
 本公众号将和您分享开发运维一体化（DevOps）的趋势，技术，工具和最佳实践。DevOps将产品研发，部署，监控／分析，运维和运营串接起来，整合为一体化产品生命周期过程。DevOps的价值在于通过体系化的方法，工具，实践来改善产品的质量，帮助您更好的把握用户需求并最终创造商业价值。在这里，我们不仅仅关注工具，更加关注方法和最佳实践。
 
-[]
+[](/MvaDemo01/MvaDemo01/images/qrcode_devopshub.jpg)
